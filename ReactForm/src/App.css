@@ -1,0 +1,11 @@
+/* write your css here */
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    flex-direction: column;
+}
+.inp{
+    outline: solid ;
+}
