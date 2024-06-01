@@ -1,0 +1,13 @@
+/* write your css here */
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+.active{
+    background-color: aqua;
+}
